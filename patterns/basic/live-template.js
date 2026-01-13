@@ -18,7 +18,7 @@ stack(
 // .stack(
 //   note("<c2 c2 g1 a1>")
 //     .s("sawtooth")
-//     .cutoff(500)
+//     .lpf(500)
 //     .gain(0.3)
 // )
 

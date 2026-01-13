@@ -20,6 +20,6 @@ stack(
   // Bass line
   note("<c1 c1 g0 a0>")
     .s("sawtooth")
-    .cutoff(sine.range(300, 800).slow(8))
+    .lpf(sine.range(300, 800).slow(8))
     .gain(0.3)
 ).bank("RolandTR909")
