@@ -68,7 +68,7 @@ Glitchy percussion with random variations, panning, and effects.
 1. **Experiment**: Modify the parameters to hear how they affect the sound
 2. **Combine**: Use `stack()` to layer multiple patterns together
 3. **Transform**: Apply `.fast()`, `.slow()`, `.rev()`, and other transformations
-4. **Effects**: Add `.room()`, `.delay()`, `.cutoff()`, and other effects
+4. **Effects**: Add `.room()`, `.delay()`, `.lpf()`, and other effects
 5. **Sequencing**: Use `<>` for cycling patterns and `[]` for subdivisions
 
 ## Learning Resources

@@ -1,5 +1,5 @@
 // Bass Line
-// Funky bass line with slides and accents
+// Funky bass line with filter and accents
 
 note("c2 ~ e2 ~ g2 f2 ~ d2")
   .s("sawtooth")
