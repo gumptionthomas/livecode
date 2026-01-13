@@ -24,6 +24,9 @@ stack(
 ).bank("RolandTR909")
 ```
 
+### [live-template.js](basic/live-template.js)
+A complete template for live performance with commented sections you can uncomment to build your set progressively.
+
 ## Drum Patterns
 
 ### [four-on-floor.js](drums/four-on-floor.js)
@@ -31,6 +34,9 @@ Classic house/techno beat with kick on every beat, snare on 2 and 4.
 
 ### [breakbeat.js](drums/breakbeat.js)
 Amen break-inspired breakbeat pattern with speed variations.
+
+### [techno-groove.js](drums/techno-groove.js)
+Complete techno groove with kick, snare, hi-hats, and bass line layered together.
 
 ## Melodic Patterns
 
@@ -40,6 +46,12 @@ Simple melodic pattern using the pentatonic scale with filter automation.
 ### [arpeggio.js](melodies/arpeggio.js)
 Arpeggiated chord progression pattern.
 
+### [bass-line.js](melodies/bass-line.js)
+Funky bass line with slides and accents.
+
+### [ambient-pad.js](melodies/ambient-pad.js)
+Lush ambient pad with slow chord changes, perfect for creating atmosphere.
+
 ## Effects Examples
 
 ### [reverb-wash.js](effects/reverb-wash.js)
@@ -47,6 +59,9 @@ Demonstrates reverb and delay effects for creating ambient textures.
 
 ### [filter-sweep.js](effects/filter-sweep.js)
 Shows how to modulate low-pass filters for dynamic sound design.
+
+### [glitch.js](effects/glitch.js)
+Glitchy percussion with random variations, panning, and effects.
 
 ## Tips for Using These Patterns
 

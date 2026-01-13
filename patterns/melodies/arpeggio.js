@@ -2,7 +2,7 @@
 // Creates an arpeggio from chord progressions
 
 note("<[c2,e2,g2] [a1,c2,e2] [f2,a2,c3] [g2,b2,d3]>")
-  .arpWith("up")
+  .arp("up")
   .s("triangle")
   .cutoff(1500)
   .resonance(10)
